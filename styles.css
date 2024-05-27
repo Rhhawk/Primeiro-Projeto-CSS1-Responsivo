@@ -38,6 +38,15 @@ cursor: pointer;
 line-height: 29px;
 
 }
+
+#botao-log:hover{
+font-size: 25px;
+font-weight: 700;
+color: black;
+transition: 0.5s ease-in-out;
+
+}
+
 #titulo {
     font-size: 100px;
     color: #515151;
